@@ -4,19 +4,5 @@
    <name>New Test Case</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>18a9c0fa-2d44-44ef-98ae-4c1227740055</testCaseGuid>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>898fd706-3dc2-4b04-8124-15b1af10b42f</id>
-      <masked>false</masked>
-      <name>username</name>
-   </variable>
-   <variable>
-      <defaultValue>''</defaultValue>
-      <description></description>
-      <id>f2f018d8-64fd-4f82-a686-46de91b37952</id>
-      <masked>false</masked>
-      <name>password</name>
-   </variable>
+   <testCaseGuid>80c86a90-3745-4856-a17e-cb2102892583</testCaseGuid>
 </TestCaseEntity>

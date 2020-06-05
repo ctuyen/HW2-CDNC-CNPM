@@ -1,0 +1,13 @@
+{"testCaseName":"Test Cases/user login - Iteration 1","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u002743214321\u0027","username":"\u0027jules\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 2","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027321\u0027","username":"\u0027dfsa\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 3","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027og4i329gh\u0027","username":"\u0027fe892\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 4","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027Sys@dmin-sample1\u0027","username":"\u0027sysadmin\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 5","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027fmioe23q3g\u0027","username":"\u0027few@#rf\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 6","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027\u0027","username":"\u0027\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 1","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u0027fdsae@fdsa.com\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 2","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u002743294932\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 3","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u0027admin@abc.com\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 4","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u0027fmeow^^\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 5","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u0027fnjiewus@ios\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 6","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u0027\u0027"}}
+{"testCaseName":"Test Cases/user forgot pass - Iteration 7","testCaseId":"Test Cases/user forgot pass","bindedValues":{"email":"\u0027R%#@.sd\u0027"}}

@@ -1,0 +1,5 @@
+{"testCaseName":"Test Cases/user login - Iteration 1","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u002743214321\u0027","username":"\u0027jules\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 2","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027321\u0027","username":"\u0027dfsa\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 3","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027og4i329gh\u0027","username":"\u0027fe892\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 4","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027Sys@dmin-sample1\u0027","username":"\u0027sysadmin\u0027"}}
+{"testCaseName":"Test Cases/user login - Iteration 5","testCaseId":"Test Cases/user login","bindedValues":{"password":"\u0027fmioe23q3g\u0027","username":"\u0027few@#rf\u0027"}}
